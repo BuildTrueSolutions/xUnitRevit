@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net48</TargetFramework>
 	  <Description>xUnit runner utilities for Revit 2024</Description>
     <PackageId>xUnitRevitUtils.2024</PackageId>
   </PropertyGroup>
